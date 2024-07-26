@@ -17,6 +17,9 @@ install module dengan perintah
 
 pip install -r requirements.txt
 
+cara menjalankan 
+python main.py
+
 Setting config.py
 
 Ganti 
