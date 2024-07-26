@@ -25,7 +25,7 @@ Setting config.py
 Ganti 
 FONNTE_AUTH_KEY , WHATSAPP_TARGET di file config.py
 
-ganti interval atau jeda pengecekan di config.py
+ganti interval atau jeda pengecekan di config.py sesuai keinginan
 
 isi data saham yang ingin di gunakan di datasaham.json
 
