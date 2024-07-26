@@ -1,0 +1,17 @@
+[
+    {
+        "symbol": "BBNI",
+        "alert_low": 4700,
+        "alert_high": 5200
+    },
+    {
+        "symbol": "BBCA",
+        "alert_low": 9950,
+        "alert_high": 10500
+    },
+    {
+        "symbol": "BBRI",
+        "alert_low": 4800,
+        "alert_high": 4750
+    }
+]
